@@ -1,0 +1,16 @@
+[10-Feb-2018 05:05:55 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/index.php on line 18
+[10-Feb-2018 05:05:57 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/index.php on line 18
+[03-Mar-2018 02:42:30 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/404.php on line 17
+[25-Mar-2018 05:46:37 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/header.php on line 17
+[28-Mar-2018 02:30:29 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/index.php on line 18
+[10-Apr-2018 11:40:42 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/404.php on line 17
+[23-Oct-2018 11:46:55 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/index.php on line 18
+[01-Jan-2019 14:43:10 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/404.php on line 17
+[01-Jan-2019 14:43:10 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/index.php on line 18
+[01-Jan-2019 14:43:10 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/header.php on line 17
+[02-Jan-2019 22:03:08 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/404.php on line 17
+[02-Jan-2019 22:03:08 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/header.php on line 17
+[02-Jan-2019 22:03:09 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/index.php on line 18
+[25-Feb-2019 16:44:28 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/404.php on line 17
+[25-Feb-2019 16:44:28 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/header.php on line 17
+[25-Feb-2019 16:44:28 America/Chicago] PHP Fatal error:  Call to undefined function x_get_view() in /home/leoluong/public_html/wp/wp-content/themes/x/index.php on line 18

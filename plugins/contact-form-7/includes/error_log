@@ -1,0 +1,5 @@
+[28-May-2017 01:56:50 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/leoluong/public_html/wp/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[28-May-2017 01:56:52 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/leoluong/public_html/wp/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[11-Oct-2017 15:58:28 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/leoluong/public_html/wp/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
+[11-Oct-2017 15:58:29 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/leoluong/public_html/wp/wp-content/plugins/contact-form-7/includes/controller.php on line 3
+[23-Mar-2018 10:00:48 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/leoluong/public_html/wp/wp-content/plugins/contact-form-7/includes/upgrade.php on line 3
